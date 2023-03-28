@@ -1,0 +1,17 @@
+C:\Users\Asus\Dropbox\My_PC\Documents\PaSkAiTu_StUfF\praktikos_stuff_c#\VismaProject\bin\Debug\net6.0\VismaProject.exe
+C:\Users\Asus\Dropbox\My_PC\Documents\PaSkAiTu_StUfF\praktikos_stuff_c#\VismaProject\bin\Debug\net6.0\VismaProject.deps.json
+C:\Users\Asus\Dropbox\My_PC\Documents\PaSkAiTu_StUfF\praktikos_stuff_c#\VismaProject\bin\Debug\net6.0\VismaProject.runtimeconfig.json
+C:\Users\Asus\Dropbox\My_PC\Documents\PaSkAiTu_StUfF\praktikos_stuff_c#\VismaProject\bin\Debug\net6.0\VismaProject.dll
+C:\Users\Asus\Dropbox\My_PC\Documents\PaSkAiTu_StUfF\praktikos_stuff_c#\VismaProject\bin\Debug\net6.0\VismaProject.pdb
+C:\Users\Asus\Dropbox\My_PC\Documents\PaSkAiTu_StUfF\praktikos_stuff_c#\VismaProject\obj\Debug\net6.0\VismaProject.csproj.AssemblyReference.cache
+C:\Users\Asus\Dropbox\My_PC\Documents\PaSkAiTu_StUfF\praktikos_stuff_c#\VismaProject\obj\Debug\net6.0\VismaProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Dropbox\My_PC\Documents\PaSkAiTu_StUfF\praktikos_stuff_c#\VismaProject\obj\Debug\net6.0\VismaProject.AssemblyInfoInputs.cache
+C:\Users\Asus\Dropbox\My_PC\Documents\PaSkAiTu_StUfF\praktikos_stuff_c#\VismaProject\obj\Debug\net6.0\VismaProject.AssemblyInfo.cs
+C:\Users\Asus\Dropbox\My_PC\Documents\PaSkAiTu_StUfF\praktikos_stuff_c#\VismaProject\obj\Debug\net6.0\VismaProject.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Dropbox\My_PC\Documents\PaSkAiTu_StUfF\praktikos_stuff_c#\VismaProject\obj\Debug\net6.0\VismaProject.dll
+C:\Users\Asus\Dropbox\My_PC\Documents\PaSkAiTu_StUfF\praktikos_stuff_c#\VismaProject\obj\Debug\net6.0\refint\VismaProject.dll
+C:\Users\Asus\Dropbox\My_PC\Documents\PaSkAiTu_StUfF\praktikos_stuff_c#\VismaProject\obj\Debug\net6.0\VismaProject.pdb
+C:\Users\Asus\Dropbox\My_PC\Documents\PaSkAiTu_StUfF\praktikos_stuff_c#\VismaProject\obj\Debug\net6.0\VismaProject.genruntimeconfig.cache
+C:\Users\Asus\Dropbox\My_PC\Documents\PaSkAiTu_StUfF\praktikos_stuff_c#\VismaProject\obj\Debug\net6.0\ref\VismaProject.dll
+C:\Users\Asus\Dropbox\My_PC\Documents\PaSkAiTu_StUfF\praktikos_stuff_c#\VismaProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Asus\Dropbox\My_PC\Documents\PaSkAiTu_StUfF\praktikos_stuff_c#\VismaProject\obj\Debug\net6.0\VismaProject.csproj.CopyComplete
